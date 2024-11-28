@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "Kullanıcı Adı"
+    "username": "afk"
   },
 
   "server": {
-    "ip": "IP Adresi",
-    "port": 25565,
-    "version": "1.16.5"
+    "ip": "salaklartekyerde.aternos.me",
+    "port": 40946,
+    "version": "1.18"
   },
 
   "position": {
